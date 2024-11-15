@@ -1,0 +1,10 @@
+Greet
+
+A simple utility that prints a greeting message.
+
+Usage
+
+./greet [NAME]
+
+- If a NAME is provided, the program will greet the user with Hello, NAME!.
+- If no NAME is provided, the program will print Hello, world!.
